@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry exported="true" kind="lib" path="C:/Java API/activation-1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Java API/commons-logging-1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Java API/twilio-7.1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Java API/stax-api-1.0-2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Java API/commons-codec-1.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Java API/guava-18.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Java API/httpclient-4.5.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Java API/httpcore-4.4.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Java API/jackson-annotations-2.4.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Java API/jackson-core-2.4.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Java API/jackson-databind-2.4.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Java API/jaxb-api-2.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Java API/jjwt-0.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Java API/joda-time-2.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Java API/slf4j-api-1.7.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Java API/twilio-java-sdk-3.3.12-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Java API/twilio-java-sdk-3.3.10-jar-with-dependencies.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
